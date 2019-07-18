@@ -1,0 +1,13 @@
+.containerArt5{
+  max-width: 960px;
+  margin: 0 auto;
+  background: #eaeded;
+  font-size: 24px;
+  Padding: 25px;
+}
+.parallaxArt5{
+  background: url('img/Untitled.png') no-repeat center;
+  background-size: contain;
+  background-attachment: fixed;
+  height: 500px;
+}

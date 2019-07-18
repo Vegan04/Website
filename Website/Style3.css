@@ -1,0 +1,13 @@
+.container3{
+  max-width: 960px;
+  margin: 0 auto;
+  background: #eaeded;
+  font-size: 24px;
+  Padding: 25px;
+}
+.parallax3{
+  background: url('img/band.png') no-repeat center;
+  background-size: contain;
+  background-attachment: fixed;
+  height: 500px;
+}

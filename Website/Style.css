@@ -1,0 +1,13 @@
+.container{
+  max-width: 960px;
+  margin: 0 auto;
+  background: #eaeded;
+  font-size: 24px;
+  Padding: 25px;
+}
+.parallax{
+  background: url('img/David.jpg') no-repeat center;
+  background-size: contain;
+  background-attachment: fixed;
+  height: 500px;
+}
